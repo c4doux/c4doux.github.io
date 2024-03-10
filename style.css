@@ -112,6 +112,19 @@ header img {
     text-align: center;
 }
 
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    padding: 50px 400px;
+    gap: 70px;
+    border-bottom: 2px solid #CE8F8A;
+    border-right: 2px solid #CE8F8A;
+}
+
+/*CSS pour le formulaire de la page contact
 form {
     margin: auto;
     padding: 20px 200px;
@@ -153,3 +166,4 @@ input[type='submit'] {
     justify-content: center;
     margin-bottom: 60px;
 }
+*/
