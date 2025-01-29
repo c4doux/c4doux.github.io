@@ -89,8 +89,8 @@ margin: auto;
     align-items: center;
     margin: auto;
     justify-content: space-between;
-    padding: 500px;
-    gap: 150px;
+    padding: 100px 200px;
+    gap: 100px;
 }
 
 header img {
