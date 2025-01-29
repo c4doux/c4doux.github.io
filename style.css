@@ -89,7 +89,7 @@ margin: auto;
     align-items: center;
     margin: auto;
     justify-content: space-between;
-    padding: 100px 200px;
+    padding: 400px 200px;
     gap: 100px;
 }
 
@@ -123,10 +123,10 @@ header img {
     gap: 20px;
 }
 .formulaire img {
-    max-height: 50%;
-    min-height: 30%;
-    max-width: 50%;
-    min-width: 30%;
+    max-height: 70%;
+    min-height: 40%;
+    max-width: 60%;
+    min-width: 40%;
     margin: auto;
     }
 
