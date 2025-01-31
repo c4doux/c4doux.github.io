@@ -75,13 +75,6 @@ a:hover {
     color: #ffffff;
 }
 
-.présentation img {
-max-height: 70%;
-min-height: 30%;
-max-width: 70%;
-min-width: 30%;
-margin: auto;
-}
 
 .présentation {
     display: flex;
